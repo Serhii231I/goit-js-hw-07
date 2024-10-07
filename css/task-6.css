@@ -1,0 +1,42 @@
+.container {
+  border-radius: 8px;
+  padding: 32px;
+  width: 486px;
+  height: 104px;
+  background-color: #f6f6fe;
+  margin-bottom: 16px;
+}
+.input {
+  border: 1px solid #808080;
+  border-radius: 8px;
+  padding: 8px 72px;
+  width: 150px;
+  height: 40px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #2e2f42;
+}
+.button {
+  border-radius: 8px;
+  padding: 8px 16px;
+  width: 120px;
+  height: 40px;
+  background-color: #4e75ff;
+}
+.button-destroy {
+  background-color: #ff4e4e;
+}
+.button-destroy:hover {
+  background-color: #ff7070;
+}
+.boxes {
+  display: flex;
+  gap: 44px;
+  border-radius: 8px;
+  padding: 32px;
+  width: 486px;
+  height: 134px;
+  background-color: #f6f6fe;
+}
