@@ -33,6 +33,7 @@
 }
 .boxes {
   display: flex;
+  flex-wrap: wrap;
   gap: 44px;
   border-radius: 8px;
   padding: 32px;
